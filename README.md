@@ -24,7 +24,7 @@ Bu uygulama, DualShock 4 kontrolcüsünü Windows'ta yönetmek için geliştiril
 
 1. Depoyu klonlayın:
 ```bash
-git clone https://github.com/KULLANICI_ADI/DS4_Controller.git
+git clone https://github.com/yusuufkesici/DS4_Controller.git
 cd DS4_Controller
 ```
 
