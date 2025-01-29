@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+pygame==2.5.2
+vgamepad==0.0.8
+hidapi==0.14.0
+pywinusb==0.4.2
+pyinstaller==6.3.0
